@@ -24,7 +24,7 @@ Jumlah : 696969 (masukin jumlah mau brp sob)<br>
   
   $ pkg install git<br>
   $ pkg install php<br>
-  $ git clone https://github.com/zeldriss/SpotifyTools/git<br>
+  $ git clone https://github.com/zeldriss/SpotifyTools.git<br>
   $ cd SpotifyTools<br>
 
 # Run

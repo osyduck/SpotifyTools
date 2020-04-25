@@ -1,7 +1,7 @@
 # SpotifyTools
-1. Spotify Auto Follower User [Target]<br><br>
+1. Spotify Auto Follower User [Target]<br>
 2. Spotify Auto Follower Playlist [Target]<br>
-
+3. Spotify Account Creator<br>
 Windows use XAMPP<br>
 Android use TERMUX<br>
 

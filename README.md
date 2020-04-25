@@ -1,17 +1,17 @@
 # SpotifyTools
 1. Spotify Auto Follower User [Target]<br><br>
-2. Spotify Auto Follower Playlist [Target]<br><br>
+2. Spotify Auto Follower Playlist [Target]<br>
 
 Windows use XAMPP<br>
 Android use TERMUX<br>
 
 # Contoh Auto Follow User
-List : spotify.txt (masukin akun spotifymu dengan format email@spotify.com|password)
-Target Follow : kzjmqnh4vych4xu6g9j3qrpbo (masukin username spotifymu)
+List : spotify.txt (masukin akun spotifymu dengan format email@spotify.com|password)<br>
+Target Follow : kzjmqnh4vych4xu6g9j3qrpbo (masukin username spotifymu)<br>
 
 # Contoh Auto Follow Playlist
-List : spotify.txt (masukin akun spotifymu dengan format email@spotify.com|password)
-Target Follow : 6QFhROdVNhAsfgxZBiUuSF (masukin username playlistmu)
+List : spotify.txt (masukin akun spotifymu dengan format email@spotify.com|password)<br>
+Target Follow : 6QFhROdVNhAsfgxZBiUuSF (masukin username playlistmu)<br>
 
 # Install
   

@@ -1,0 +1,21 @@
+# SpotifyTools
+1. Spotify Auto Follower User [Target]<br><br>
+2. Spotify Auto Follower Playlist [Target]<br><br>
+
+Windows use XAMPP<br>
+Android use TERMUX<br>
+
+# Install
+  
+  $ pkg install git<br>
+  $ pkg install php<br>
+  $ git clone https://github.com/zeldriss/SpotifyTools/git<br>
+  $ cd SpotifyTools<br>
+
+# Run
+
+  $ php follow.php <= USE FOR AUTO FOLLOW USER
+ 
+  $ php playlist.php <= USE FOR AUTO FOLLOW PLAYLIST
+
+

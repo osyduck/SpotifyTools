@@ -13,6 +13,12 @@ Target Follow : kzjmqnh4vych4xu6g9j3qrpbo (masukin username spotifymu)<br>
 List : spotify.txt (masukin akun spotifymu dengan format email@spotify.com|password)<br>
 Target Follow : 6QFhROdVNhAsfgxZBiUuSF (masukin username playlistmu)<br>
 
+# Contoh Spotify Create (Result tersimpan di spotify.txt)
+Email : Terserahsob (gak usah pake @gmail udh otomatis)<br>
+Password : login (masukin password sob)<br>
+Jumlah : 696969 (masukin jumlah mau brp sob)<br>
+
+
 # Install
   
   $ pkg install git<br>
@@ -23,8 +29,9 @@ Target Follow : 6QFhROdVNhAsfgxZBiUuSF (masukin username playlistmu)<br>
 # Run
 
   $ php follow.php <= USE FOR AUTO FOLLOW USER
- 
   $ php playlist.php <= USE FOR AUTO FOLLOW PLAYLIST
+  $ php create.php <= USE FOR CREATE SPOTIFY ACCOUNT SAVED IN spotify.txt
+
   
 
 

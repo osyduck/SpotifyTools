@@ -1,7 +1,8 @@
 # SpotifyTools
 1. Spotify Auto Follower User [Target]<br>
 2. Spotify Auto Follower Playlist [Target]<br>
-3. Spotify Account Creator<br>
+3. Spotify Account Creator<br><br>
+
 Windows use XAMPP<br>
 Android use TERMUX<br>
 
@@ -28,9 +29,9 @@ Jumlah : 696969 (masukin jumlah mau brp sob)<br>
 
 # Run
 
-  $ php follow.php <= USE FOR AUTO FOLLOW USER
-  $ php playlist.php <= USE FOR AUTO FOLLOW PLAYLIST
-  $ php create.php <= USE FOR CREATE SPOTIFY ACCOUNT SAVED IN spotify.txt
+  $ php follow.php <= USE FOR AUTO FOLLOW USER<br>
+  $ php playlist.php <= USE FOR AUTO FOLLOW PLAYLIST<br>
+  $ php create.php <= USE FOR CREATE SPOTIFY ACCOUNT SAVED IN spotify.txt<br>
 
   
 

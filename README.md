@@ -5,6 +5,14 @@
 Windows use XAMPP<br>
 Android use TERMUX<br>
 
+# Contoh Auto Follow User
+List : spotify.txt (masukin akun spotifymu dengan format email@spotify.com|password)
+Target Follow : kzjmqnh4vych4xu6g9j3qrpbo (masukin username spotifymu)
+
+# Contoh Auto Follow Playlist
+List : spotify.txt (masukin akun spotifymu dengan format email@spotify.com|password)
+Target Follow : 6QFhROdVNhAsfgxZBiUuSF (masukin username playlistmu)
+
 # Install
   
   $ pkg install git<br>
@@ -17,5 +25,6 @@ Android use TERMUX<br>
   $ php follow.php <= USE FOR AUTO FOLLOW USER
  
   $ php playlist.php <= USE FOR AUTO FOLLOW PLAYLIST
+  
 
 

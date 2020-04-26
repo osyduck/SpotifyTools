@@ -1,6 +1,5 @@
 <?php
-error_reporting(1);
-require 'agent.php';
+error_reporting(0);
 
 date_default_timezone_set('Asia/Jakarta');
 echo "===============================================\n";
